@@ -1,0 +1,187 @@
+{
+    "intents": [
+      {
+        "tag": "Back pain",
+        "patterns": ["lower back hurts", "spine hurts", "back discomfort"],
+        "responses": [
+          "Back pain can result from muscle strain, bad posture, or more serious issues like herniated discs. Consider rest, heat therapy, and pain relievers. If it persists, consult an orthopedic doctor."
+        ]
+      },
+      {
+        "tag": "Body feels weak",
+        "patterns": ["feeling weak", "weak body", "low energy"],
+        "responses": [
+          "Feeling weak can be caused by fatigue, dehydration, or infections. Rest, hydration, and proper nutrition can help. If this feeling persists, consider seeing a general physician."
+        ]
+      },
+      {
+        "tag": "Hair falling out",
+        "patterns": ["hair loss", "losing hair", "balding"],
+        "responses": [
+          "Hair loss can result from stress, hormonal imbalances, or deficiencies. A dermatologist can help determine if medication or treatments are needed."
+        ]
+      },
+      {
+        "tag": "Heart hurts",
+        "patterns": ["chest pain", "heart pain", "pain in heart"],
+        "responses": [
+          "Heart pain could indicate serious conditions such as angina or a heart attack. Please consult a cardiologist immediately or go to an emergency room if the pain is severe."
+        ]
+      },
+      {
+        "tag": "Joint pain",
+        "patterns": ["aching joints", "joint pain", "joint stiffness"],
+        "responses": [
+          "Joint pain can be a sign of arthritis or injury. Over-the-counter pain relievers and anti-inflammatory medications can help. See a rheumatologist for persistent pain."
+        ]
+      },
+      {
+        "tag": "Knee pain",
+        "patterns": ["knee hurts", "pain in knee", "knee discomfort"],
+        "responses": [
+          "Knee pain can arise from injury, arthritis, or overuse. Rest and ice packs may relieve pain. Consult an orthopedic specialist if it persists."
+        ]
+      },
+      {
+        "tag": "Head ache",
+        "patterns": ["head hurts", "headache", "migraine"],
+        "responses": [
+          "Headaches can be triggered by stress, dehydration, or sinus issues. Drinking water, rest, and over-the-counter pain relief can help. If headaches persist, consult a neurologist."
+        ]
+      },
+      {
+        "tag": "Infected wound",
+        "patterns": ["infected cut", "red wound", "swollen wound"],
+        "responses": [
+          "An infected wound can cause redness, swelling, and pus. Clean the area with antiseptic, and consider antibiotics if severe. Consult a general physician if symptoms worsen."
+        ]
+      },
+      {
+        "tag": "Ear ache",
+        "patterns": ["ear pain", "ear infection", "ear hurts"],
+        "responses": [
+          "Ear pain may be caused by an ear infection or buildup of fluid. Over-the-counter pain relief can help. If symptoms persist, consult an ENT specialist."
+        ]
+      },
+      {
+        "tag": "Injury from sports",
+        "patterns": ["sports injury", "hurt while playing", "pain after exercise"],
+        "responses": [
+          "Sports injuries often cause pain, swelling, or stiffness. Rest and ice may help. If the pain continues, consult a sports medicine specialist or physiotherapist."
+        ]
+      },
+      {
+        "tag": "Feeling cold",
+        "patterns": ["cold body", "shivering", "feeling chilly"],
+        "responses": [
+          "Feeling cold can be a sign of low blood sugar, anemia, or hypothyroidism. Staying warm and consuming nutritious foods may help. Consult a general physician if symptoms persist."
+        ]
+      },
+      {
+        "tag": "Skin issue",
+        "patterns": ["skin problem", "rash", "irritation on skin"],
+        "responses": [
+          "Skin issues such as rashes or dryness could indicate allergies, eczema, or infections. Moisturizing and antihistamines may help. For persistent issues, see a dermatologist."
+        ]
+      },
+      {
+        "tag": "Neck pain",
+        "patterns": ["neck hurts", "stiff neck", "pain in neck"],
+        "responses": [
+          "Neck pain can result from poor posture, stress, or muscle strain. Applying heat and gentle stretching may help. Consult a physiotherapist or orthopedic doctor if the pain persists."
+        ]
+      },
+      {
+        "tag": "Cough",
+        "patterns": ["coughing", "persistent cough", "dry cough"],
+        "responses": [
+          "A cough can be a symptom of a cold, flu, or respiratory infection. Rest, hydration, and cough medicine may help. If it lasts longer than a week, consult a pulmonologist."
+        ]
+      },
+      {
+        "tag": "Shoulder pain",
+        "patterns": ["shoulder hurts", "shoulder discomfort", "pain in shoulder"],
+        "responses": [
+          "Shoulder pain could be due to strain or injury. Rest and cold packs may help. If the pain persists, an orthopedic specialist can assist."
+        ]
+      },
+      {
+        "tag": "Emotional pain",
+        "patterns": ["feeling sad", "depressed", "emotional pain"],
+        "responses": [
+          "Emotional pain may be a sign of depression or anxiety. Speaking to a mental health professional like a psychologist or counselor can help."
+        ]
+      },
+      {
+        "tag": "Feeling dizzy",
+        "patterns": ["dizzy", "lightheaded", "spinning"],
+        "responses": [
+          "Dizziness can be caused by dehydration, low blood pressure, or ear issues. Rest and hydration may help. If it persists, see a neurologist or ENT specialist."
+        ]
+      },
+      {
+        "tag": "Foot ache",
+        "patterns": ["foot pain", "foot hurts", "sore feet"],
+        "responses": [
+          "Foot pain could result from overuse, injury, or improper footwear. Rest and elevating the foot can help. A podiatrist can help with persistent pain."
+        ]
+      },
+      {
+        "tag": "Internal pain",
+        "patterns": ["internal pain", "pain inside", "abdominal pain"],
+        "responses": [
+          "Internal pain can be due to digestive issues or internal inflammation. Consider consulting a gastroenterologist if the pain persists."
+        ]
+      },
+      {
+        "tag": "Acne",
+        "patterns": ["pimples", "acne", "breakouts"],
+        "responses": [
+          "Acne can result from hormonal changes or skincare issues. Proper skincare and topical treatments may help. Consult a dermatologist for severe cases."
+        ]
+      },
+      {
+        "tag": "Stomach ache",
+        "patterns": ["stomach hurts", "abdominal pain", "stomach discomfort"],
+        "responses": [
+          "Stomach aches may be due to indigestion, gastritis, or infections. Over-the-counter antacids may help. Consult a gastroenterologist for persistent issues."
+        ]
+      },
+      {
+        "tag": "Blurry vision",
+        "patterns": ["blurry eyes", "can't see well", "vision issues"],
+        "responses": [
+          "Blurry vision could indicate eye strain, cataracts, or other conditions. A visit to an ophthalmologist is recommended for proper diagnosis."
+        ]
+      },
+      {
+        "tag": "Open wound",
+        "patterns": ["cut", "bleeding", "open sore"],
+        "responses": [
+          "An open wound should be cleaned and bandaged. If it doesn’t heal or shows signs of infection, consult a general physician."
+        ]
+      },
+      {
+        "tag": "Hard to breathe",
+        "patterns": ["breathing difficulty", "shortness of breath", "can't breathe"],
+        "responses": [
+          "Difficulty breathing could be due to asthma, allergies, or other respiratory issues. Seek immediate medical attention or consult a pulmonologist."
+        ]
+      },
+      {
+        "tag": "Muscle pain",
+        "patterns": ["muscle hurts", "sore muscles", "muscle discomfort"],
+        "responses": [
+          "Muscle pain is often caused by overuse, tension, or injury. Rest and gentle stretches may help. See a physiotherapist for persistent pain."
+        ]
+      },
+      {
+        "tag": "Out of context",
+        "patterns": ["random", "non-medical", "off-topic"],
+        "responses": [
+          "I am a medical chatbot, and I can assist you with health-related concerns. Please ask me a medical question."
+        ]
+      }
+    ]
+  }
+  
